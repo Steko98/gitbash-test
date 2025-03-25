@@ -157,3 +157,7 @@ addMatchButton.addEventListener("click", function(){
         radio.checked = false;
     });
 })
+
+function nothing() {
+    console.log("I did nothing")
+}
